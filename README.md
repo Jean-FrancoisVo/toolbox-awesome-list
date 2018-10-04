@@ -1,6 +1,9 @@
 # Front Toolbox 
 List of my personal tooling for front end design
 
+## Dependencies checker
+* [Cost of dependencies](https://bundlephobia.com)
+
 ## Color chooser 
 
 * [Ui gradients](https://uigradients.com)
