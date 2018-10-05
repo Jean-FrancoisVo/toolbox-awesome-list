@@ -1,7 +1,20 @@
 # Front Toolbox 
 List of my personal tooling for front end design
 
+## Enjoyable reading
+* [Removing jQuery dependencies](https://githubengineering.com/removing-jquery-from-github-frontend/)
+
+## Browsers and co
+
+* [Inside browser and why it's good to have diversity](https://css-tricks.com/the-ecological-impact-of-browser-diversity/)
+* [Inside modern browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+## Web Architecture
+
+* [101]](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=2f4eb43f0ca3)
+
 ## Dependencies checker
+
 * [Cost of dependencies](https://bundlephobia.com)
 
 ## Color chooser 
@@ -16,3 +29,4 @@ List of my personal tooling for front end design
 ## Icons
 
 * [Font awesome](https://fontawesome.com)
+
