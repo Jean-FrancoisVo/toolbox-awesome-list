@@ -11,7 +11,7 @@ List of my personal tooling for front end design
 
 ## Web Architecture
 
-* [101]](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=2f4eb43f0ca3)
+* [101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=2f4eb43f0ca3)
 
 ## Dependencies checker
 
