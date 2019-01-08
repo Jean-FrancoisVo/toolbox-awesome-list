@@ -22,6 +22,10 @@ List of my personal tooling for front end design
 * [Cost of dependencies](https://bundlephobia.com)
 * [Analyze dependencies](https://github.com/depcheck/depcheck)
 
+## Learning material
+
+* [Let's build the web of the future](https://web.dev/)
+
 ## Color chooser 
 
 * [Ui gradients](https://uigradients.com)
