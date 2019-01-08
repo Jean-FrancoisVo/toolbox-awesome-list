@@ -16,6 +16,7 @@ List of my personal tooling for front end design
 ## Dependencies checker
 
 * [Cost of dependencies](https://bundlephobia.com)
+* [Analyze dependencies](https://github.com/depcheck/depcheck)
 
 ## Color chooser 
 
@@ -29,6 +30,10 @@ List of my personal tooling for front end design
 ## Icons
 
 * [Font awesome](https://fontawesome.com)
+
+## Tests
+
+* [Mutation testing](http://pitest.org/)
 
 ## Videos
 
