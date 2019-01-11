@@ -3,6 +3,7 @@ List of my personal tooling for front end design
 
 ## Enjoyable reading
 * [Removing jQuery dependencies](https://githubengineering.com/removing-jquery-from-github-frontend/)
+* [Clean architecture applied to NodeJS](https://medium.com/@dtinth/clean-javascript-using-use-case-interactors-f3a50c138154)
 
 ## Browsers and co
 
@@ -36,6 +37,11 @@ List of my personal tooling for front end design
 
 * [Ui gradients](https://uigradients.com)
 * [Color box](https://www.colorbox.io/?ref=producthunt)
+* [Coolors](https://coolors.co/app)
+
+## Background lists
+
+* [SVG patterns](https://www.svgbackgrounds.com/)
 
 ## Progressive Web App
 
