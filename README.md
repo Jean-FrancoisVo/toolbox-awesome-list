@@ -23,11 +23,14 @@ List of my personal tooling for front end design
 
 * [Netlify](https://www.netlify.com/)
 
-
 ## Dependencies checker
 
 * [Cost of dependencies](https://bundlephobia.com)
 * [Analyze dependencies](https://github.com/depcheck/depcheck)
+
+## Clean up
+
+* [Dead css](https://github.com/joereynolds/mort)
 
 ## Learning material
 
@@ -38,6 +41,9 @@ List of my personal tooling for front end design
 * [Ui gradients](https://uigradients.com)
 * [Color box](https://www.colorbox.io/?ref=producthunt)
 * [Coolors](https://coolors.co/app)
+* [Background](https://9elements.github.io/fancy-border-radius/#57.30.30.41--.)
+* [Patterns](https://css-doodle.com/)
+* [duotone](https://cssduotone.com/)
 
 ## Background lists
 
@@ -50,6 +56,10 @@ List of my personal tooling for front end design
 ## Icons
 
 * [Font awesome](https://fontawesome.com)
+
+## Lists 
+
+* [tools](https://speckyboy.com/100-css-libraries-frameworks-tools/)
 
 ## Tests
 
