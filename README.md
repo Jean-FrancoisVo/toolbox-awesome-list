@@ -22,6 +22,7 @@ List of my personal tooling for front end design
 ## Deployment
 
 * [Netlify](https://www.netlify.com/)
+* [Check list](https://github.com/thedaviddias/Front-End-Checklist)
 
 ## Dependencies checker
 
